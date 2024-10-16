@@ -37,7 +37,7 @@ namespace Tyuiu.GubanovaSO.Sprint2.Task0.V12
 
             for (int i = 0; i < 6; i++)
             {
-                Console.WriteLine(res[i]);
+                Console.WriteLine(res[i]); 
             }
         }
     }

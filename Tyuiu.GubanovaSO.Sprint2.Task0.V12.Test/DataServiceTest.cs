@@ -11,7 +11,7 @@ namespace Tyuiu.GubanovaSO.Sprint2.Task0.V12.Test
         [Test]
         public void ValidGetCompareOperations()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int x = 1095;
             int y = 475;
             bool[] res = new bool[6];

@@ -9,7 +9,7 @@ namespace Tyuiu.GubanovaSO.Sprint2.Task0.V12.Lib
             res[0] = x == y + 620;
             res[1] = x != y + 620;
             res[2] = x < y * 3;
-            res[3] = x > y * 3;
+            res[3] = x > y * 3; 
             res[4] = x <= y * 3;
             res[5] = x >= y * 3;
 
